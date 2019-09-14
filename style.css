@@ -51,7 +51,7 @@ body{
   position: absolute;
   top: 50%;
   left: 5px;
-  color: #adadad;
+  color: #ababab;
   transform: translateY(-50%);
   z-index: -1;
   transition: .5s;
