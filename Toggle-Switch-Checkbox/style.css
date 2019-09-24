@@ -44,7 +44,7 @@
   overflow: hidden;
   cursor: pointer;
   transition: 0.4s;
-  border-radius: 20px;
+  border-radius: 20px; /* wanghu*/
 }
 
 .s2:before{
